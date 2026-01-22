@@ -1,6 +1,6 @@
 <div align="center">
 
-# 𝘼𝙫𝙞𝙣𝙖𝙨𝙝 𝙆𝙪𝙢𝙖𝙧  
+# 𝘼𝙫𝙞𝙣𝙖𝙨𝙝 Gupta
 ### Aspiring Software Engineer | Full Stack Developer | Open Source Contributor  
 
 🔥 *Crafting scalable systems. Building in public. Learning every day.* 🔥
@@ -47,11 +47,11 @@ I enjoy working on:
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=logicalavi09&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=logicalavi09&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
