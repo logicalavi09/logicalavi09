@@ -1,7 +1,7 @@
 <div align="center">
 
 # 𝘼𝙫𝙞𝙣𝙖𝙨𝙝 𝙆𝙪𝙢𝙖𝙧  
-### Software Engineer | Full Stack Developer | Open Source Contributor  
+### Aspiring Software Engineer | Full Stack Developer | Open Source Contributor  
 
 🔥 *Crafting scalable systems. Building in public. Learning every day.* 🔥
 
