@@ -11,7 +11,7 @@
 
 ## 🧠 About Me
 
-I’m a **Pre-Final Year CSE Student at MNNIT Allahabad**, passionate about building **scalable full-stack applications** and contributing to **open-source projects**.
+I’m a **Pre-Final Year Student at MNNIT Allahabad**, passionate about building **scalable full-stack applications** and contributing to **open-source projects**.
 
 I enjoy working on:
 - ⚙️ Backend Architecture & System Design  
